@@ -5,7 +5,7 @@ class Pessoa {
 	String telefone;
 	String nacionalidade;
 
-	public Pessoa(String nome, int idade, String telefone) {
+	public Pessoa(String nome, int idade, String telefone, String nacionalidade) {
 		this.nome = nome;
 		this.idade = idade;
 		this.telefone = telefone;
